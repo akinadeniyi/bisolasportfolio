@@ -42,7 +42,7 @@
     ],
     "uniqCompNum": 11,
     "versionPublish": "5.2.0",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/bisola-logo-1.png",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -56,7 +56,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Bisola",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
